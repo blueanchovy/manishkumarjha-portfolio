@@ -1,6 +1,6 @@
-# Manish Portfolio
+# Manish Kumar Jha Portfolio
 
-Hey, I am Manish, and this is my personal portfolio.
+Hey, I am Manish Kumar Jha, and this is my personal portfolio.
 I am an aspiring web developer and intend to use this to showcase my skills.
 
 My skillset includes:
